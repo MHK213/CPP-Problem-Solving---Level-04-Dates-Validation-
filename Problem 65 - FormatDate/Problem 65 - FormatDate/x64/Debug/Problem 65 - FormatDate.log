@@ -1,0 +1,5 @@
+﻿  Problem 65 - FormatDate.cpp
+C:\Users\DELL\Desktop\Programming Advices\Courses\course 8 - Algorithms  & Problem Solving Level 4\Problem 65 - FormatDate\Problem 65 - FormatDate\Problem 65 - FormatDate.cpp(48,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\Desktop\Programming Advices\Courses\course 8 - Algorithms  & Problem Solving Level 4\Problem 65 - FormatDate\Problem 65 - FormatDate\Problem 65 - FormatDate.cpp(81,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\Desktop\Programming Advices\Courses\course 8 - Algorithms  & Problem Solving Level 4\Problem 65 - FormatDate\Problem 65 - FormatDate\Problem 65 - FormatDate.cpp(86,22): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Problem 65 - FormatDate.vcxproj -> C:\Users\DELL\Desktop\Programming Advices\Courses\course 8 - Algorithms  & Problem Solving Level 4\Problem 65 - FormatDate\x64\Debug\Problem 65 - FormatDate.exe

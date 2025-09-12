@@ -1,0 +1,35 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "MSVC Code Analysis",
+          "version": "14.44.35214.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dell/desktop/programming advices/courses/course 8 - algorithms  & problem solving level 4/problem 20-32 - level 04/problem 20-32 - level 04/problem 20-32 - level 04.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "763ce8c1142c38e9bb782cf6d3f4a0efb4a0238bb062014a0abb7bcf79abe9b4"
+          }
+        }
+      ]
+    }
+  ]
+}
