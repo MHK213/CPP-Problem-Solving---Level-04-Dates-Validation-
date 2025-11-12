@@ -24,6 +24,14 @@ The focus of this level is **Dates, Validation, and String Manipulation** — so
 
 ---
 
+## Learning Outcomes
+
+ By completing this level, I improved in:
+ - Writing clean, documented C++ code
+ - Using enums, structs, and functions effectively
+ - Mastering date-related algorithms
+ - Building reusable utility functions
+
 ## Example Problem
 
 **Problem 65 - Format Date**
@@ -39,13 +47,7 @@ string FormateDate(stDate Date, string DateFormat = "dd/mm/yyyy") {
 
 ---
 
-## Learning Outcomes
-
- By completing this level, I improved in:
- - Writing clean, documented C++ code
- - Using enums, structs, and functions effectively
- - Mastering date-related algorithms
- - Building reusable utility functions
+---
 
 This repo is part of my learning journey in C++.
 ⭐ If you like this project, give it a star on GitHub!
